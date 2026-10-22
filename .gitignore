@@ -1,0 +1,7 @@
+# Ignorar compilaciones y binarios
+build/
+*.elf
+*.bin
+*.hex
+*.bin
+.vscode/
